@@ -1,7 +1,6 @@
 import './App.css';
 import {useState} from "react";
 import {Result} from "../Result/Result";
-import {Capacity} from "../Capacity/Capacity";
 
 function App(){
   // Initializing all the state variables
